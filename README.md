@@ -29,7 +29,21 @@ This dataset consists of 1190 instances with 11 features. These datasets were co
 | 11    | ST slope                    | The slope of the peak exercise ST segment | 0, 1, 2       | Nominal   |
 | 12    | class                       | Target                                | 0, 1             | Binary    |
 
+## Nominal attributes
+
+| Attribute                     | Description                                                                                                                                                                    |
+|-------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sex                           | 1 = male, 0 = female                                                                                                                                                           |
+| Chest Pain Type               | - Value 1: typical angina <br>- Value 2: atypical angina <br>- Value 3: non-anginal pain <br>- Value 4: asymptomatic                                                           |
+| Fasting Blood Sugar           | (fasting blood sugar > 120 mg/dl) <br> (1 = true; 0 = false)                                                                                                                   |
+| Resting Electrocardiogram Results | - Value 0: normal <br>- Value 1: having ST-T wave abnormality (T wave inversions and/or ST elevation or depression of > 0.05 mV) <br>- Value 2: showing probable or definite left ventricular hypertrophy by Estes' criteria |
+| Exercise Induced Angina       | 1 = yes; 0 = no                                                                                                                                                                |
+| The Slope of the Peak Exercise ST Segment | - Value 1: upsloping <br>- Value 2: flat <br>- Value 3: downsloping                                                                                                           |
+| Class                         | 1 = heart disease, 0 = Normal                                                                                                                                                 |
+
+
 # Heart-Disease-Analysis
+
 ![982a4cde-09b6-411b-959a-adb9cc2dec36_1680x1210](https://github.com/nayana142/Heart-Disease-Analysis-/assets/120770261/c36e3f52-0ca0-4c73-b07c-088d2073cf97)
 
 ## Context
